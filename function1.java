@@ -19,6 +19,9 @@ Scanner sc=new Scanner(System.in);
   }
   
   public static void main(String[] args) {
-    armstrong();
+    function1 functionObject = new function1();
+
+    functionObject.armstrong();
 }
+
 }
